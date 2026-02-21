@@ -1,3 +1,6 @@
 # test-gamemaker
+asdfas
+892 
 
-892 757 26
+asdf 757 
+asdf26
